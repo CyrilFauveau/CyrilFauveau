@@ -1,4 +1,4 @@
-## Hi there, I'm Cyril Fauveau 👋
+## Hi there, I'm Cyril 👋
 
 I'm a **Web Developer** passionate about **Web3** and blockchain technologies, based in France 🇫🇷.\
 I enjoy building modern, intuitive interfaces and experimenting with the intersection of frontend development and smart contracts.
