@@ -5,7 +5,7 @@ I enjoy building modern, intuitive interfaces and experimenting with the interse
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Favorite Tech Stack
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript
 - **Web3 / Blockchain:** Solidity, Hardhat, OpenZeppelin
 - **Other:** Node.js, REST APIs, Jest, CI/CD
