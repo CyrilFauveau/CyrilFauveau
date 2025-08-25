@@ -1,6 +1,6 @@
 ## Hi there, I'm Cyril 👋
 
-I'm a **Web Developer** passionate about **Web3** and blockchain technologies, based in France ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France").\
+I'm a **Web Developer** passionate about **Web3** and blockchain technologies, based in **France** ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France").\
 I enjoy building modern, intuitive interfaces and experimenting with the intersection of frontend development and smart contracts.
 
 ---
